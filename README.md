@@ -259,7 +259,7 @@ Adjust frequencies and timing in `lib/audio-feedback.ts`:
 
 ## License
 
-MIT
+Personal
 
 ## Support
 
